@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="1500" src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667">
 <h1 align="center">Hi 👋, I'm Abilash Palit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 

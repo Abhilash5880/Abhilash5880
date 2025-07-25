@@ -43,7 +43,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash5880&theme=default" alt="abhilash5880" /></p>-->
 <img align="center" alt="coding" width="1500" src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667">
-<h1 align="center">Hi, I'm Abilash Palit</h1>
+<h1 align="center">Hi, I'm Abhilash Palit</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash5880&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash5880" /> </p>
 

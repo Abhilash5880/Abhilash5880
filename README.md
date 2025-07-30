@@ -11,7 +11,7 @@
 
 - 📝 Was a former Youtuber/Part time editor [TerenceGamerYT](https://www.youtube.com/@TerenceGamerYT)
 
-- 🎨 My Artwork Portfolio (still work in progress) [Pixels & Pigments](https://abhilash5880.github.io/Artwork-Portfolio)
+- 🎨 My Artwork Portfolio [Pixels & Pigments](https://abhilash5880.github.io/Artwork-Portfolio)
 
 - 💬 Ask me about **DSA/C/C++/Python/HTML/CSS/Photoshop/VideoEditing,etc.**
 

@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently pursuing **BTech. in Information Technology**
 
-- 👨‍💻 All of my projects are available at [comingsoon](comingsoon)
+- 🌐 My Personnel Portfolio [Pixels & Pigments](https://abhilash5880.github.io/Personnel-Portfolio/)
 
 - 📝 Was a former Youtuber/Part time editor [TerenceGamerYT](https://www.youtube.com/@TerenceGamerYT)
 
-- 🎨 My Artwork Portfolio [Pixels & Pigments](https://abhilash5880.github.io/Personnel-Portfolio/)
-
-- 💬 Ask me about **DSA/C/C++/Python/HTML/CSS/Photoshop/VideoEditing,etc.**
+- 💬 Ask me about **DSA/C/C++/Python/HTML/CSS/JS/Photoshop/VideoEditing,etc.**
 
 - 📫 How to reach me **abhilashpalit80@gmail.com**
 

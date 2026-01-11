@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abhilashpalit80@gmail.com**
 
-- 📄 Find My Resume Here [resumelink](resumelink)
+- 📄 Find My Resume Here [resumelink](https://drive.google.com/file/d/189q60ZkYWl-x1aM01JL17gqMiYlFXG2D/view?usp=sharing)
 
 - ⚡ **Can be classified as a Nerd 😅**
 

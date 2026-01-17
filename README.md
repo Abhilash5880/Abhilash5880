@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently pursuing **BTech. in Information Technology**
 
-- 🌐 My Personnel Portfolio [Pixels & Pigments](https://abhilash5880.github.io/Personnel-Portfolio/)
+- 🌐 My Personnel Portfolio [click here](https://pixel-and-pigments-abhilashpalit.vercel.app/)
 
 - 📝 Was a former Youtuber/Part time editor [TerenceGamerYT](https://www.youtube.com/@TerenceGamerYT)
 

@@ -1,98 +1,70 @@
-<img align="center" alt="coding" width="1500" src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667">
 <h1 align="center">Hi, I'm Abhilash Palit</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilash5880&label=Profile%20views&color=0e75b6&style=flat" alt="abhilash5880" /> </p>
+<p align="center">A software developer driven by learning, teaching, and building useful code.</p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<p align="center">
+  <a href="https://abhilash-palit.vercel.app/">Portfolio</a> •
+  <a href="https://drive.google.com/file/d/189q60ZkYWl-x1aM01JL17gqMiYlFXG2D/view?usp=sharing">Resume</a> •
+  <a href="mailto:abhilashpalit80@gmail.com">Email</a>
+</p>
 
-- 🌱 I’m currently pursuing **BTech. in Information Technology**
+---
 
-- 🌐 My Personnel Portfolio [click here](https://pixel-and-pigments-abhilashpalit.vercel.app/)
+## About Me
 
-- 📝 Was a former Youtuber/Part time editor [TerenceGamerYT](https://www.youtube.com/@TerenceGamerYT)
+- 🎓 Pursuing B.Tech. in Information Technology.
+- 💡 I enjoy solving problems with C, C++, Python, HTML/CSS, and JavaScript.
+- 🎥 Former content creator and editor, now focused on developer learning and growth.
+- 🚀 I build projects that are easy to understand, maintain, and scale.
 
-- 💬 Ask me about **DSA/C/C++/Python/HTML/CSS/JS/Photoshop/VideoEditing,etc.**
+## What I Focus On
 
-- 📫 How to reach me **abhilashpalit80@gmail.com**
+- Writing clean code and building reusable solutions.
+- Learning data structures, algorithms, and best practices.
+- Sharing knowledge through tutorials and project examples.
 
-- 📄 Find My Resume Here [resumelink](https://drive.google.com/file/d/189q60ZkYWl-x1aM01JL17gqMiYlFXG2D/view?usp=sharing)
+## Skills
 
-- ⚡ **Can be classified as a Nerd 😅**
-<h3 align="left">Connect with me:</h3>
+- **Languages:** C, C++, Python, JavaScript, HTML, CSS
+- **Frameworks & Tools:** Git, MySQL, VS Code, Adobe Photoshop, Adobe Illustrator
+- **Core Topics:** Data Structures, Algorithms, Debugging, Version Control, Web Fundamentals
 
-<div align="left" style="display:flex; gap:10px; align-items:center;">
-<a href="https://linkedin.com/in/abhilash palit" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
+## Connect with Me
 
-<a href="https://www.youtube.com/c/terence gamer yt" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-</a>
+- LinkedIn: https://linkedin.com/in/abhilashpalit
+- YouTube: https://www.youtube.com/@TerenceGamerYT
+- HackerRank: https://www.hackerrank.com/abhilashpalit80
+- LeetCode: https://www.leetcode.com/abhilashpalit80
+  
+## Quick Links
 
-<a href="https://www.hackerrank.com/abhilashpalit80" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-</a>
+- Portfolio: https://abhilash-palit.vercel.app/
+- Resume: https://drive.google.com/file/d/189q60ZkYWl-x1aM01JL17gqMiYlFXG2D/view?usp=sharing
+- Email: abhilashpalit80@gmail.com
 
-<a href="https://www.leetcode.com/abhilash palit" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
+---
 
-<a href="https://discord.gg/1274030249650421885" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/>
-</a>
-</div>
+## Tools & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+  <img src="https://vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="Illustrator" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-photoshop-icon.png" width="40" height="40" alt="Photoshop" />
+</p>
 
-<div align="left" style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
+## GitHub Activity
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilash5880&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top languages" /></p>
 
-<a href="https://cloud.google.com" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilash5880&show_icons=true&theme=radical&locale=en" alt="GitHub stats" /></p>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.photoshop.com/en" target="_blank">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-photoshop-icon.png" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-</div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilash5880&show_icons=true&theme=radical&locale=en&layout=compact" alt="abhilash5880" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilash5880&show_icons=true&theme=radical&locale=en" alt="abhilash5880" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash5880&theme=dark" alt="abhilash5880" /></p>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhilash5880" alt="abhilash5880" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash5880&theme=dark" alt="GitHub streak" /></p>
 
 

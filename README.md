@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abhilash Palit</h1>
-<p align="center">A software developer driven by learning, teaching, and building useful code.</p>
+<p align="center">A software developer driven by learning and building useful code.</p>
 
 <p align="center">
   <a href="https://abhilash-palit.vercel.app/">Portfolio</a> •
@@ -12,7 +12,7 @@
 ## About Me
 
 - 🎓 Pursuing B.Tech. in Information Technology.
-- 💡 I enjoy solving problems with C, C++, Python, HTML/CSS, and JavaScript.
+- 💡 I enjoy solving problems with C, C++, Python and JavaScript.
 - 🎥 Former content creator and editor, now focused on developer learning and growth.
 - 🚀 I build projects that are easy to understand, maintain, and scale.
 
@@ -25,7 +25,7 @@
 ## Skills
 
 - **Languages:** C, C++, Python, JavaScript, HTML, CSS
-- **Frameworks & Tools:** Git, MySQL, VS Code, Adobe Photoshop, Adobe Illustrator
+- **Frameworks & Tools:** Git, React, Node.js, Next.js, etc.
 - **Core Topics:** Data Structures, Algorithms, Debugging, Version Control, Web Fundamentals
 
 ## Connect with Me
@@ -38,7 +38,7 @@
 ## Quick Links
 
 - Portfolio: https://abhilash-palit.vercel.app/
-- Resume: https://drive.google.com/file/d/189q60ZkYWl-x1aM01JL17gqMiYlFXG2D/view?usp=sharing
+- Resume: https://drive.google.com/file/d/1sbgvhexIr191JJW0Xd5J7Oh01JKVRrv_/view?usp=drive_link
 - Email: abhilashpalit80@gmail.com
 
 ---

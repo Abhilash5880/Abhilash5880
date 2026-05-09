@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://abhilash-palit.vercel.app/">Portfolio</a> •
-  <a href="https://drive.google.com/file/d/189q60ZkYWl-x1aM01JL17gqMiYlFXG2D/view?usp=sharing">Resume</a> •
+  <a href="https://drive.google.com/file/d/1sbgvhexIr191JJW0Xd5J7Oh01JKVRrv_/view?usp=drive_link">Resume</a> •
   <a href="mailto:abhilashpalit80@gmail.com">Email</a>
 </p>
 

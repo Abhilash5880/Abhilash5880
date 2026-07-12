@@ -33,7 +33,7 @@
 - LinkedIn: https://linkedin.com/in/abhilashpalit
 - YouTube: https://www.youtube.com/@TerenceGamerYT
 - HackerRank: https://www.hackerrank.com/abhilashpalit80
-- LeetCode: https://www.leetcode.com/abhilashpalit80
+- LeetCode: https://leetcode.com/u/bLmmKCW6Mr
   
 ## Quick Links
 
